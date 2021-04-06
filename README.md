@@ -2,4 +2,4 @@
 
 - Strategy (Behavioral)
 
-*** Code was taken from [Refactoring.Guru](https://refactoring.guru/design-patterns/)
+Source code was taken from [Refactoring.Guru](https://refactoring.guru/design-patterns/)
